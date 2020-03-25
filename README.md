@@ -5,6 +5,9 @@ This is a reference implementation of the softmax splatting operator, which has 
 
 [[Project]](https://lcmhoang.github.io/publication/2020-cvpr-homography/) [[Paper]]()  
 
+## Samples 
+<img src='./mics/examples.png' width=800>
+
 
 ## License and Citation
 The use of this software is RESTRICTED to non-commercial research and educational purposes.
