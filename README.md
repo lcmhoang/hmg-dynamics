@@ -10,7 +10,7 @@ in IEEE Computer Vision and Pattern Recognition  (CVPR) 2020
 
 ## Dataset 
 
-## Samples 
+#### Samples 
 <img src='./mics/examples.png' width=1000>
 
 ## Citation
