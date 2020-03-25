@@ -1,16 +1,13 @@
-# Deep Homography Estimation for Dynamic Scenes (hmg-dyn)
-This is a project website 
-
-This is a reference implementation of the softmax splatting operator, which has been proposed in Softmax Splatting for Video Frame Interpolation [1], using PyTorch. Softmax splatting is a well-motivated approach for differentiable forward warping. It uses a translational invariant importance metric to disambiguate cases where multiple source pixels map to the same target pixel. Should you be making use of our work, please cite our paper [1].
+# Deep Homography Estimation for Dynamic Scenes
+We address the problem of estimating homography for images with dynamic scenes by introducing a mask-augmented homography estimation network and a dynamics scene video dataset used to train the network. We demonstrate that our dataset is useful to enable training a deep learning based homography estimation to handle dynamic scenes. We also demonstrate that our proposed mask-augmented network dedicatedly designed for these scenes can further improve the performance of homography estimation quantitatively and qualitatively. Should you be making use of our work, please cite our paper [1].
 
 [[Project]](https://lcmhoang.github.io/publication/2020-cvpr-homography/) [[Paper]]()  
+## Dataset 
 
 ## Samples 
 <img src='./mics/examples.png' width=1000>
 
-
-## License and Citation
-The use of this software is RESTRICTED to non-commercial research and educational purposes.
+## Citation
 
 ```
 [1]  @inproceedings{Le_CVPR_2020,
