@@ -6,12 +6,14 @@ We address the problem of estimating homography for images with dynamic scenes b
 ## Overview
 "Deep Homography Estimation for Dynamic Scenes"   
 [Hoang Le](https://lcmhoang.github.io/), [Feng Liu](http://web.cecs.pdx.edu/~fliu/), Shu Zhang, [Aseem Agarwala](http://www.agarwala.org/) (PSU & Google & Adobe Research)
-in IEEE Computer Vision and Pattern Recognition  (CVPR) 2020
+in IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.
 
 ## Dataset 
 
 #### Samples 
 <img src='./mics/examples.png' width=1000>
+
+[Video Link and Frame ID]()
 
 ## Citation
 
