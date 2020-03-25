@@ -18,11 +18,11 @@ in IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.
 ## Citation
 
 ```
-[1]  @inproceedings{Le_CVPR_2020,
-         author = {Hoang Le and Feng Liu},
-         title = {Deep Homography Estimation for Dynamic Scenes},
-         booktitle = {IEEE International Conference on Computer Vision},
-         year = {2020}
-     }
+@inproceedings{Le_CVPR_2020,
+     author = {Hoang Le and Feng Liu},
+     title = {Deep Homography Estimation for Dynamic Scenes},
+     booktitle = {IEEE International Conference on Computer Vision},
+     year = {2020}
+ }
 ```
 
