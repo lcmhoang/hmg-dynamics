@@ -20,17 +20,20 @@ Homography estimation is an important step in many computer vision problems. Rec
 [[Paper]](https://github.com/lcmhoang/hmg-dynamics#deep-homography-estimation-for-dynamic-scenes)
 
 ## Dataset 
-##### Samples 
-<img src='./mics/5vEw60gYNFo.mp4_004027_004052_optimized.gif' width=450 ><img src='./mics/fP5I48j_ang.mp4_007642_007687_optimized.gif' width=450>
-<img src='./mics/H3gsjINoZqM.mp4_003840_003871_optimized.gif' width=450><img src='./mics/BYeXtAlu1iM.mp4_003388_003412_optimized.gif' width=450>
-*These sample clips are used under Creative Commons license from Youtube users freestylefactory, RealTDragon, Lumnah Acres, and Wild Bill.*
-
-This [VideoID and Frame Index](./video_id_and_frame_idx.txt) contains information about the video id and idx of the extracted frame sequences in our dataset. The file is formatted as following:  
+Training a deep neural network for homography estimation for dynamic scenes requires a dynamic scenes dataset. We introduce here a video dataset and a image-pair-generation method to prepare such a dataset. First, we collect a large set of youtube videos with a Creative Commons License from YouTube and identify identify in those videos static video clips that dynamic scenes while the cameras are held static . This [VideoID and Frame Index](./video_id_and_frame_idx.txt) contains information about the video id and idx of the extracted frame sequences in our dataset. The file is formatted as following:  
 ```
 [youtube_video_id];[frameIdxStart,frameIdxStartEnd];...;[frameIdxStart,frameIdxStartEnd]  
 ...  
 [youtube_video_id];[frameIdxStart,frameIdxStartEnd];...;[frameIdxStart,frameIdxStartEnd]
 ```
+
+
+
+##### Samples 
+<img src='./mics/5vEw60gYNFo.mp4_004027_004052_optimized.gif' width=450 ><img src='./mics/fP5I48j_ang.mp4_007642_007687_optimized.gif' width=450>
+<img src='./mics/H3gsjINoZqM.mp4_003840_003871_optimized.gif' width=450><img src='./mics/BYeXtAlu1iM.mp4_003388_003412_optimized.gif' width=450>
+*These sample clips are used under Creative Commons license from Youtube users freestylefactory, RealTDragon, Lumnah Acres, and Wild Bill.*
+
 
 ## License and Citation
 The provided implementation is for academic purposes only. Should you be making use of our work, please cite our paper.
