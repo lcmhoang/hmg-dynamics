@@ -1,6 +1,6 @@
 <h1 align="center">Deep Homography Estimation for Dynamic Scenes</h1>
 <p align="center">
-<a href="lcmhoang.github.io">Hoang Le</a>, 
+<a href="https://lcmhoang.github.io/">Hoang Le</a>, 
 <a href="http://web.cecs.pdx.edu/~fliu/">Feng Liu</a>, 
 Shu Zhang, 
 <a href="http://www.agarwala.org/">Aseem Agarwala</a>,
