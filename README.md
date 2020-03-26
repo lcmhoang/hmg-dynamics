@@ -26,7 +26,7 @@ Homography estimation is an important step in many computer vision problems. Rec
 [[Paper]](https://github.com/lcmhoang/hmg-dynamics#deep-homography-estimation-for-dynamic-scenes)
 
 ## Dataset 
-Training a deep neural network for homography estimation for dynamic scenes requires a dynamic scenes dataset. We introduce here a video dataset and a image-pair-generation method to prepare such a dataset. First, we collect a large set of youtube videos with a *Creative Commons License* from *YouTube* and identify identify in these videos a set of *static video clips* that dynamic scenes while the cameras are held static . This [VideoID and Frame Index](./video_id_and_frame_idx.txt) contains information about the video id and frame index of the extracted static video clips in our dataset. The file is formatted as following:  
+Training a deep neural network for homography estimation for dynamic scenes requires a dynamic scenes dataset. We introduce here a video collection and a image-pair-generation method to prepare such a dataset. First, we collect a large collection of videos with a *Creative Commons License* from *YouTube* and identify in those videos a set of *static video clips* that capture dynamic scenes while the cameras are held static . This [VideoID and Frame Index](./video_id_and_frame_idx.txt) contains information about the video id and frame index of the extracted static video clips in our dataset. The file is formatted as following:  
 ```
 [youtube_video_id];[frameIdxStart,frameIdxStartEnd];...;[frameIdxStart,frameIdxStartEnd]  
 ...  
