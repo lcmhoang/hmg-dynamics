@@ -10,12 +10,21 @@ Portland State University, Google, Adobe Research
 <i>IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.</i>
 </p>
 
+
+<style>
+div {
+  max-width: 400px;
+  min-width: 100px;
+  background-color: powderblue;
+}
+</style>
+
 <figure>
 <p align="center" >
   <img src='./mics/fig1.png' width=450 alt="Figure 1"/>
 </p>
 <div>
-Challenging examples for homography estimation. Each figure shows one of the two input images. Each white box indicates where the other image in the pair will be warped to in the first image according to the ground truth homography and each red box indicates the result using the estimated homography. As shown in the top row, the lack of texture fails the traditional SIFT+ RANSAC method while the deep learning methods work well. The example at the bottom is difficult as the moving person dominates the image. Compared to both the SIFT-based method and the deep homography estimation method [9] , our dynamics-aware method can better estimate homography for a dynamic scene
+Challenging examples for homography estimation. Each figure shows one of the two input images. Each white box indicates where the other image in the pair will be warped to in the first image according to the ground truth homography and each red box indicates the result using the estimated homography. As shown in the top row, the lack of texture fails the traditional SIFT+ RANSAC method while the deep learning methods work well. The example at the bottom is difficult as the moving person dominates the image. Compared to both the SIFT-based method and the deep homography estimation method [9], our dynamics-aware method can better estimate homography for a dynamic scene
 </div>
 </figure>
 
