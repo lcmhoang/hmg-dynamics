@@ -10,9 +10,9 @@ in IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.
 
 ## Dataset 
 ##### Samples 
-<img src='./mics/5vEw60gYNFo.mp4_004027_004052_optimized.gif' width=475><img src='./mics/fP5I48j_ang.mp4_007642_007687_optimized.gif' width=475>
+<img src='./mics/5vEw60gYNFo.mp4_004027_004052_optimized.gif' width=450><img src='./mics/fP5I48j_ang.mp4_007642_007687_optimized.gif' width=450>
 
-<img src='./mics/H3gsjINoZqM.mp4_003840_003871_optimized.gif' width=475><img src='./mics/BYeXtAlu1iM.mp4_003388_003412_optimized.gif' width=475>
+<img src='./mics/H3gsjINoZqM.mp4_003840_003871_optimized.gif' width=450><img src='./mics/BYeXtAlu1iM.mp4_003388_003412_optimized.gif' width=450>
 
 <img src='./mics/examples.png' width=1000>
 
