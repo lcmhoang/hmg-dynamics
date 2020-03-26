@@ -1,7 +1,7 @@
 # Deep Homography Estimation for Dynamic Scenes
 
-<p align="center" width=450 alt="test">
-  <img src='./mics/fig1.png'/>
+<p align="center" >
+  <img src='./mics/fig1.png' width=450 alt="test"/>
 </p>
 
 #### Abstract
