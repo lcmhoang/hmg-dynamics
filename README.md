@@ -21,7 +21,7 @@ Homography estimation is an important step in many computer vision problems. Rec
 [Hoang Le](https://lcmhoang.github.io/), [Feng Liu](http://web.cecs.pdx.edu/~fliu/), Shu Zhang, [Aseem Agarwala](http://www.agarwala.org/) (PSU & Google & Adobe Research)
 in IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.
 
-######[[Paper]](https://github.com/lcmhoang/hmg-dynamics#deep-homography-estimation-for-dynamic-scenes)
+###### [[Paper]](https://github.com/lcmhoang/hmg-dynamics#deep-homography-estimation-for-dynamic-scenes)
 
 ## Dataset 
 ##### Samples 
