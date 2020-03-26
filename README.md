@@ -1,4 +1,6 @@
 <h1 align="center">Deep Homography Estimation for Dynamic Scenes</h1>
+[Hoang Le](https://lcmhoang.github.io/), [Feng Liu](http://web.cecs.pdx.edu/~fliu/), Shu Zhang, [Aseem Agarwala](http://www.agarwala.org/) (PSU & Google & Adobe Research)
+in IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.
 
 <p align="center" >
   <img src='./mics/fig1.png' width=450 alt="test"/>
