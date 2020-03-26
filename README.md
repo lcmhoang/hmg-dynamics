@@ -10,7 +10,7 @@ in IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.
 
 ## Dataset 
 ##### Samples 
-<img src='./mics/5vEw60gYNFo.mp4_004027_004052_optimized.png' width=500>
+<img src='./mics/5vEw60gYNFo.mp4_004027_004052_optimized.gif' width=500>
 <img src='./mics/examples.png' width=1000>
 
 This [VideoID and Frame Index](./video_id_and_frame_idx.txt) contains information about the video id and idx of the extracted frame sequences in our dataset. The file is formatted as following:  
