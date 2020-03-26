@@ -10,10 +10,10 @@ in IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.
 
 ## Dataset 
 ##### Samples 
-<img src='./mics/5vEw60gYNFo.mp4_004027_004052_optimized.gif' width=450><img src='./mics/fP5I48j_ang.mp4_007642_007687_optimized.gif' width=450>
+<img src='./mics/5vEw60gYNFo.mp4_004027_004052_optimized.gif' width=450 ><img src='./mics/fP5I48j_ang.mp4_007642_007687_optimized.gif' width=450>
 <img src='./mics/H3gsjINoZqM.mp4_003840_003871_optimized.gif' width=450><img src='./mics/BYeXtAlu1iM.mp4_003388_003412_optimized.gif' width=450>
+###### Acknowledgement
 
-<img src='./mics/examples.png' width=900>
 
 This [VideoID and Frame Index](./video_id_and_frame_idx.txt) contains information about the video id and idx of the extracted frame sequences in our dataset. The file is formatted as following:  
 ```
@@ -27,9 +27,9 @@ The provided implementation is for academic purposes only. Should you be making 
 
 ```
 @inproceedings{Le_CVPR_2020,
-     author = {Hoang Le and Feng Liu},
+     author = {Hoang Le, Feng Liu, Shu Zhang, Aseem Agarwala},
      title = {Deep Homography Estimation for Dynamic Scenes},
-     booktitle = {IEEE International Conference on Computer Vision},
+     booktitle = {IEEE Conference on Computer Vision and Pattern Recognition},
      year = {2020}
 }
 ```
