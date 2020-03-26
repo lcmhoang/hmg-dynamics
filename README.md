@@ -9,11 +9,15 @@ We address the problem of estimating homography for images with dynamic scenes b
 in IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.
 
 ## Dataset 
-
-#### Samples 
+##### Samples 
 <img src='./mics/examples.png' width=1000>
 
-[Video Link and Frame ID](https://github.com/lcmhoang/hmg-dynamics#dataset)
+This [VideoID and Frame Index](./video_id_and_frame_idx.txt) contains information about the video id and idx of the extracted frame sequences in our dataset. The file is formatted as following:  
+```
+[youtube_video_id];[frameIdxStart,frameIdxStartEnd];...;[frameIdxStart,frameIdxStartEnd]  
+...  
+[youtube_video_id];[frameIdxStart,frameIdxStartEnd];...;[frameIdxStart,frameIdxStartEnd]
+```
 
 ## Citation
 
