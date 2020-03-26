@@ -4,9 +4,7 @@
 <a href="http://web.cecs.pdx.edu/~fliu/">Feng Liu</a>, 
 Shu Zhang, 
 <a href="http://www.agarwala.org/">Aseem Agarwala</a>,
-
 (Portland State University, Google, Adobe Research) 
-
 IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.
 </p>
 
