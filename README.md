@@ -11,8 +11,11 @@ Portland State University, Google, Adobe Research
 </p>
 
 <p align="center" >
+<figure>
   <img src='./mics/fig1.png' width=450 alt="test"/>
-  The two top images originate from MS-COCO. The bottom images are used under Creative Commons license from Youtube users Nikki Limo.
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
 </p>
 
 ## Abstract
