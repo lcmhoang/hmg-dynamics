@@ -10,7 +10,6 @@ Portland State University, Google, Adobe Research
 <i>IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.</i>
 </p>
 
-
 <p align="center" >
   <img src='./mics/fig1.png' width=450 alt="test"/>
 </p>
@@ -22,11 +21,7 @@ Homography estimation is an important step in many computer vision problems. Rec
 [Hoang Le](https://lcmhoang.github.io/), [Feng Liu](http://web.cecs.pdx.edu/~fliu/), Shu Zhang, [Aseem Agarwala](http://www.agarwala.org/) (PSU & Google & Adobe Research)
 in IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.
 
-[[Project]](https://lcmhoang.github.io/publication/2020-cvpr-homography/) Paper
-
-## Overview
-We address the problem of estimating homography for images with dynamic scenes by introducing a mask-augmented homography estimation network and a dynamics scene video dataset used to train the network. We demonstrate that our dataset enables training deep neural network to better handle dynamic scenes. We also demonstrate that our proposed mask-augmented network dedicatedly designed for these scenes can further improve the performance of homography estimation quantitatively and qualitatively. Should you be making use of our work, please cite our paper.
-
+######[[Paper]](https://github.com/lcmhoang/hmg-dynamics#deep-homography-estimation-for-dynamic-scenes)
 
 ## Dataset 
 ##### Samples 
