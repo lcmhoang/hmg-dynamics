@@ -12,7 +12,7 @@ Portland State University, Google, Adobe Research
 
 <p align="center" >
   <img src='./mics/fig1.png' width=450 alt="test"/>
-  *These sample clips are used under Creative Commons license from Youtube users freestylefactory, RealTDragon, Lumnah Acres, and Wild Bill.*
+  The two top images originate from MS-COCO. The bottom images are used under Creative Commons license from Youtube users Nikki Limo.
 </p>
 
 ## Abstract
