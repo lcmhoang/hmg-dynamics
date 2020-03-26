@@ -12,6 +12,7 @@ Portland State University, Google, Adobe Research
 
 <p align="center" >
   <img src='./mics/fig1.png' width=450 alt="test"/>
+  *These sample clips are used under Creative Commons license from Youtube users freestylefactory, RealTDragon, Lumnah Acres, and Wild Bill.*
 </p>
 
 ## Abstract
@@ -27,7 +28,7 @@ Training a deep neural network for homography estimation for dynamic scenes requ
 [youtube_video_id];[frameIdxStart,frameIdxStartEnd];...;[frameIdxStart,frameIdxStartEnd]
 ```
 
-Second, we apply our [image_pair_generation.py](./image_pair_generation.py) method to sample a pair of images within each video clip and compute a ground-truth homography between these images to form a training sample.
+Secondly, we apply our [image_pair_generation.py](./image_pair_generation.py) method to sample a pair of images within each video clip and compute a ground-truth homography between these images to form a training sample.
 
 ##### Sample clips capturing dynamic scenes while the cameras are held static
 <img src='./mics/5vEw60gYNFo.mp4_004027_004052_optimized.gif' width=450 ><img src='./mics/fP5I48j_ang.mp4_007642_007687_optimized.gif' width=450>
