@@ -11,11 +11,10 @@ Portland State University, Google, Adobe Research
 </p>
 
 <p align="center" >
-<figure>
+<figure align="center">
   <img src='./mics/fig1.png' width=450 alt="test"/>
   <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 </figure>
-
 </p>
 
 ## Abstract
