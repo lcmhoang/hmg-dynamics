@@ -5,9 +5,9 @@
 Shu Zhang, 
 <a href="http://www.agarwala.org/">Aseem Agarwala</a>,
 <br>
-(Portland State University, Google, Adobe Research)  
+Portland State University, Google, Adobe Research
 <br>
-IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.
+<i>IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.</i>
 </p>
 
 
