@@ -3,7 +3,7 @@
 <a href="https://lcmhoang.github.io/">Hoang Le</a>, 
 <a href="http://web.cecs.pdx.edu/~fliu/">Feng Liu</a>, 
 Shu Zhang, 
-<a href="http://www.agarwala.org/">Aseem Agarwala</a>,
+<a href="http://www.agarwala.org/">Aseem Agarwala</a>
 <br>
 Portland State University, Google, Adobe Research
 <br>
