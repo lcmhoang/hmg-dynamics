@@ -1,11 +1,11 @@
 <h1 align="center">Deep Homography Estimation for Dynamic Scenes</h1>
 <p align="center">
-<a href="https://lcmhoang.github.io/">Hoang Le</a>, 
-<a href="http://web.cecs.pdx.edu/~fliu/">Feng Liu</a>, 
-Shu Zhang, 
-<a href="http://www.agarwala.org/">Aseem Agarwala</a>
+<a href="https://lcmhoang.github.io/">Hoang Le<sup>1</sup></a>, 
+<a href="http://web.cecs.pdx.edu/~fliu/">Feng Liu<sup>1</sup></a>, 
+Shu Zhang<sup>2</sup>, 
+<a href="http://www.agarwala.org/">Aseem Agarwala<sup>3</sup></a>
 <br>
-Portland State University, Google, Adobe Research
+<sup>1</sup>Portland State University, <sup>2</sup>Google, <sup>3</sup>Adobe Research
 <br>
 <i>IEEE Computer Vision and Pattern Recognition  (CVPR) 2020.</i>
 </p>
