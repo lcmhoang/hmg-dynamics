@@ -41,7 +41,7 @@ Secondly, we apply our [image_pair_generation.py](./image_pair_generation.py) me
 
 
 ## Acknowledgement
-Fig.1 (top) originate from MS-COCO. Fig.1 (bottom) and the dataset sample clips are used under Creative Commons license from Youtube users Nikki Limo, freestylefactory, RealTDragon, Lumnah Acres, and Wild Bill.
+Fig.1 (top) originate from MS-COCO. Fig.1 (bottom) and the dataset sample clips are used under a Creative Commons license from Youtube users Nikki Limo, freestylefactory, RealTDragon, Lumnah Acres, and Wild Bill.
 
 
 ## License and Citation
